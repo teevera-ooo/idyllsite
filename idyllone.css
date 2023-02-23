@@ -1,0 +1,60 @@
+h1 {
+    background-image: url(ethereal-clouds.gif);
+    background-size: cover;
+    margin: 0%;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 87px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin:0;
+    padding:0;
+}
+
+nav li {
+    width: 50px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    display: inline
+}
+
+nav li a {
+    padding-top: 20px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: aquamarine;
+    color-interpolation-filters: linearRGB;
+}
+
+a:visited {
+    color: rgb(234, 124, 217);
+}
+
+ul {
+    text-decoration: none;
+}
+
+.boldlink {
+    font-weight: bold;
+}
+
+.boldnav {
+    font-weight: bolder;
+}
+@font-face { 
+    font-family: Delicious; src: url('Fax\ Sans\ Beta.otf'); 
+} 
